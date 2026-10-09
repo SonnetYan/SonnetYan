@@ -1,16 +1,17 @@
-## Hi there 👋
+```
+ .  .     .
+   .  . :  .   x
+ .  : ::::. .        x            x
+   . :::::::._____________________________
+ .   ':::::'        x        x
+   .   . .   x
+```
 
-<!--
-**SonnetYan/SonnetYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mingxi Yan**, Tokyo
 
-Here are some ideas to get you started:
+*Seeing what a system is really doing, from a few noisy observations.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PhD candidate in Computer Science at Georgia State University.
+Simulation, data assimilation, and machine learning for complex dynamical systems.
+
+[sonnetyan.com](https://sonnetyan.com) | [mingxi@sonnetyan.com](mailto:mingxi@sonnetyan.com)
